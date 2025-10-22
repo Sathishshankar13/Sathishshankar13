@@ -1,44 +1,28 @@
-# 👋 Hi, I'm Sathish Shankar
+<h1 align="center">Hi 👋, I'm Sathish Shankar</h1>
+<h3 align="center">A passionate IT professional with 7.6+ years of experience across Cloud DevOps, Intelligent Document Processing (IDP), and RPA.</h3>
 
-🎯 A passionate IT professional with **7.6+ years** of experience across **Cloud DevOps, Intelligent Document Processing (IDP), and RPA**.
+- 🔭 I’m currently working on **Advanced K8 and Cloud cost optimization**
 
-📍 Based in Toronto, Canada | ✉️ satzkmr443@gmail.com 
-🔗 [LinkedIn](https://www.linkedin.com/in/reachsatish) • [GitHub](https://github.com/Sathishshankar13)  
+- 🌱 I’m currently learning **MlOps and NLP**
 
----
-## 👨‍💻 About Me
+- 👯 I’m looking to collaborate on **DevOps automation, RPA-IDP integration, and cloud migration projects**
 
-- 🔭 I’m currently working on advanced **Kubernetes deployments** with **CI/CD**, **service mesh**, and **cloud cost optimization**
-- 🌱 I’m currently learning **Istio**, **SBOM security practices**, and **cloud-native observability**
-- 👷‍♂️ Actively building CI/CD pipelines with **ArgoCD**, **GitHub Actions**, and **Helm** on AKS & EKS
-- 👯 I’m looking to collaborate on **DevOps automation**, **RPA-IDP integration**, and **cloud migration projects**
-- 🤔 I’m looking for help with **designing highly available multi-cloud environments**
-- 💬 Ask me about **AWS**, **Azure**, **Hyperscience**, **UiPath**, **Terraform**, **Kubernetes**, or **DevSecOps**
-- 📫 How to reach me: **satzkmr443@gmail.com** or [LinkedIn](https://linkedin.com/in/sathishshankar)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I once dreamed of being in aviation, now I "pilot" infrastructure and automation in the cloud 🚀
-  
-- 💬 Ask me about:  
-  `DevOps`, `RPA`, `Hyperscience`, `Kubernetes`, `AWS`, `Python`, `Terraform`, `OCR/NLP`
----
-## 🛠️ Tech Stack
+- 🤝 I’m looking for help with **MlOps and NLP**
 
-**🔧 Automation & RPA**  
-`UiPath` `Power Automate` `ABBYY` `Hyperscience`
+- 👨‍💻 All of my projects are available at [https://github.com/Sathishshankar13](https://github.com/Sathishshankar13)
 
-**🧑‍💻 Programming & Scripting**  
-`Python` `VBA` `Shell Script` `Java` `Linux`
+- 💬 Ask me about **AWS, Azure, Hyperscience, UiPath, Terraform, Kubernetes, or DevSecOps**
 
-**☁️ Cloud & DevOps**  
-`AWS` `Azure` `Terraform` `Ansible` `GitHub Actions` `Jenkins` `Docker` `Helm` `Argo CD` `Kubernetes` `OpenShift`
+- 📫 How to reach me **satzkmr443@gmail.com**
 
-**🛡️ Security & Monitoring**  
-`ISTIO` `SNYK` `Trivy` `OWASP ZAP` `Prometheus` `Grafana`
+- 📄 Know about my experiences [www.linkedin.com/in/reachsatish](www.linkedin.com/in/reachsatish)
 
-**🧠 IDP & NLP Platforms**  
-`Hyperscience` `ABBYY FlexiCapture` `AI Builder` `IBM Watson`
+- ⚡ Fun fact **I once dreamed of being in aviation, now I "pilot" infrastructure and automation in the cloud**
 
-**🗃️ Data & Integration**  
-`MongoDB` `JSON` `XML` `Data Lakes` `Apigee`
-<!--
-**Sathishshankar13/Sathishshankar13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/reachsatish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/reachsatish" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
