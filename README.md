@@ -3,7 +3,7 @@
 🎯 A passionate IT professional with **7.6+ years** of experience across **Cloud DevOps, Intelligent Document Processing (IDP), and RPA**.
 
 📍 Based in Toronto, Canada | ✉️ satzkmr443@gmail.com 
-🔗 [LinkedIn](https://www.linkedin.com/in/sathishshankar) • [GitHub](https://github.com/sathish)  
+🔗 [LinkedIn](https://www.linkedin.com/in/reachsatish) • [GitHub](https://github.com/Sathishshankar13)  
 
 ---
 ## 👨‍💻 About Me
