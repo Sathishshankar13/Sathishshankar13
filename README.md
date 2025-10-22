@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sathish Shankar</h1>
 <h3 align="center">A passionate IT professional with 7.6+ years of experience across Cloud DevOps, Intelligent Document Processing (IDP), and RPA.</h3>
 
-- 🔭 I’m currently working on **Advanced K8 and Cloud cost optimization**
+- 🔭 I’m currently working on **DevSecOps and Automation**
 
 - 🌱 I’m currently learning **MlOps and NLP**
 
