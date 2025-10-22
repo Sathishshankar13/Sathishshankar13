@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sathishshankar13](https://github.com/Sathishshankar13)
 
-- 💬 Ask me about **AWS, Azure, Hyperscience, UiPath, Terraform, Kubernetes, or DevSecOps**
+- 💬 Ask me about **AWS, Azure, UiPath, Terraform, Kubernetes, Ansible, CICD Pipeline and DevSecOps**
 
 - 📫 How to reach me **satzkmr443@gmail.com**
 
