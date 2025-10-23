@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **MlOps and NLP**
 
-- 👯 I’m looking to collaborate on **DevOps automation, RPA-IDP integration, and cloud migration projects**
+- 👯 I’m looking to collaborate on **DevOps CI CD automation, RPA-IDP integration, and cloud migration projects**
 
-- 🤝 I’m looking for help with **MlOps and NLP**
+- 🤝 I’m looking for help with **RAG LLM models in Agentic Bots**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sathishshankar13](https://github.com/Sathishshankar13)
 
