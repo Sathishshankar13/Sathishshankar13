@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **satzkmr443@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/reachsatish](www.linkedin.com/in/reachsatish)
+- 📄 Know about my experiences (https://www.linkedin.com/in/reachsatish/)
 
 - ⚡ Fun fact **I once dreamed of being in aviation, now I "pilot" infrastructure and automation in the cloud**
 
